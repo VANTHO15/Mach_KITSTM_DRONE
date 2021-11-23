@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=5V Pin=JP1-1
+Removed Pin From Net: NetName=VREF+ Pin=JP1-2
+Removed Pin From Net: NetName=5V Pin=JP1-3
+Removed Pin From Net: NetName=VREF+ Pin=JP1-4
+Removed Pin From Net: NetName=GND Pin=JP1-5
+Removed Pin From Net: NetName=GND Pin=JP1-6
+Removed Member From Class: ClassName=Drone Member=JP1
+Added Component: Designator=J2(JP4x2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=VREF+ Pin=J2-3
+Added Pin To Net: NetName=VREF+ Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=5V Pin=J2-7
+Added Pin To Net: NetName=5V Pin=J2-8
+Added Member To Class: ClassName=Drone Member=Component J2 2.54_4P
+Added Room: Name=Drone

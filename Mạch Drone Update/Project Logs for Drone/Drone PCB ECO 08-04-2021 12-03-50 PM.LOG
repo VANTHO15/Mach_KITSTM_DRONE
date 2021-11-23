@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5V Pin=VIT2-VIT1
+Removed Pin From Net: NetName=NetBZ1_2 Pin=VIT4-VIT1
+Added Member To Class: ClassName=Drone Member=Component VIT1 1
+Added Member To Class: ClassName=Drone Member=Component VIT2 1
+Added Member To Class: ClassName=Drone Member=Component VIT3 1
+Added Member To Class: ClassName=Drone Member=Component VIT4 1

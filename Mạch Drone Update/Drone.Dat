@@ -1,0 +1,46 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Drone.PrjPCB|ReportField=ProjectFullPath~D:\DRONE\Mạch Drone\Drone.PrjPCB|ReportField=Title~Bill of Materials For Project [Drone.PrjPCB] (PCB Document : DroneTHO.PcbDoc)|ReportField=ReportTime~1:05:30 AM|ReportField=ReportDate~10/04/2021|ReportField=ReportDateTime~10/04/2021 1:05:30 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~87|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10/04/2021|ReportField=CurrentTime~1:03:40 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\DRONE\Mạch Drone\Drone.SchDoc|ReportField=DocumentName~Drone.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10/04/2021|ReportField=Organization~|ReportField=ProjectName~Drone.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Drone.PrjPCB|ReportField=DataSourceFullPath~D:\DRONE\Mạch Drone\Drone.PrjPCB|ReportField=PCBDataSourceFileName~DroneTHO.PcbDoc|ReportField=PCBDataSourceFullPath~D:\DRONE\DroneTHO.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|STM32F407|||STM32F407Vet6|STM32F407|1
+2|Switch||1|SW_MSS|Switch|1
+3|Nút Nhấn 2 Chân 3x6x2.5MM SMD|Dán|BT1|Nut Nhan 2 Chan SMD_N|Nut Nhan 2 Chan SMD|1
+4|2Khz|Cắm|BZ1|coi xung|Coi xung 2Khz|1
+5|12pF|Dán|C1, C10|tu 0805|Tu 0805 10pF 50V 10%|2
+6|100nF|Dán|C2, C7, C9, C16, C17, C18, C19, C20|tu 0805|Tu 0805 104 50V 10%|8
+7|100nF (0805)|Dán|C3, C13, C23|tu 0805|Tu 0805 220nF 50V 10%|3
+8|2.2uF (0805)|Dán|C4, C5|tu 0805|Tu 0805 220nF 50V 10%|2
+9|10uF|Dán|C6|tu 0805|Tu 0805 104 50V 10%|1
+10|C104|Dán|C8|tu 0805|Tu 0805 104 50V 10%|1
+11|104 (0805)|Dán|C11|tu 0805|Tu 0805 104 50V 10%|1
+12|22pF|Dán|C12, C22|tu 0805|Tu 0805 10pF 50V 10%|2
+13|1uF (0805)|Dán|C14|tu 0805|Tu 0805 220nF 50V 10%|1
+14|4.7uF|Dán|C15|tu 0805|Tu 0805 104 50V 10%|1
+15|SS14|Dán|D1, D2, D3|DIODE SMD|Diode SS14 ( 1N5819)|3
+16|IO|Header 1x3|ESC1, ESC2, ESC3, ESC4, SERVO|CON.HDR1X3|CON.HDR1x3|5
+17|IO|Header 1x4|GPS, LIDAR1, LIDAR2, LIDAR3|CON.HDR1X4L|CON.HDR1x4|4
+18|Header 5x2|Header 5x2|HD1|Hed2X5|HED5x2|1
+19|78L05|Dán|IC1|SOT89-150P410X160-3N|78L05|1
+20|LED_RGB|Cắm|JP1|JUMP DON DUC 2.54_4P|Jump Don Duc 2.54_4P|1
+21|led do 0805|Dán|LED1|led 0805|Led 0805 Do|1
+22|LED SMD||LED2|SM-LED-0805-Yellow|LED-SMD-0805|1
+23|LED SMD||LED3|SM-LED-0805-Green|LED-SMD-0805|1
+24|LED SMD||LED4|SM-LED-0805-Blue|LED-SMD-0805|1
+25|NRF24L01||M1|NRF24L01|NRF24L01|1
+26|1.25-2p|Cắm|P1|Header Duc Thang 2p 1.25|Header 1.25-2p|1
+27|EXTEND2|Header, 5-Pin, Dual row|P2|HDR2X5_CEN|Header 5X2A|1
+28|EXTEND1|Header, 5-Pin, Dual row|P3|HDR2X5_CEN|Header 5X2A|1
+29|EXTEND3|Header, 5-Pin, Dual row|P4|HDR2X5_CEN|Header 5X2A|1
+30|2N7002|N-channel Enhancement Mode Field-effect Transistor|Q1, Q2, Q3, Q4, Q5|SOT23-123|2N7002|5
+31|0R (0805)|Dán|R1, R2|tro 0805|Tro 0805 5% 470R|2
+32|0R|Dán|R3, R5, R10, R12, R14|tro 0805|Tro 0805 5% 470R|5
+33|10k|Dán|R4, R15, R17, R18, R19, R20, R21, R22, R23, R25|tro 0805|Tro 0805 1% 10k, Tro 0805 5% 10k|10
+34|10k (0805-1%)|Dán|R6|tro 0805|Tro 0805 1% 10k|1
+35|470R (0805)|Dán|R7|tro 0805|Tro 0805 5% 470R|1
+36|1K|Dán|R8, R11, R13|tro 0805|Tro 0805 5% 470R|3
+37|10k (0805)|Dán|R9|tro 0805|Tro 0805 5% 10k|1
+38|2K|Dán|R16|tro 0805|Tro 0805 5% 10k|1
+39|4K7|Dán|R24|tro 0805|Tro 0805 1% 10k|1
+40|GY-86||Tho1|GY-86|GY-86|1
+41|TP|Test Point|TP1|TP1|TP1|1
+42|AMS1117 3.3V|Dán|U1|SOT223|AMS1117 3.3V|1
+43|1|Oc Vit|VIT1, VIT3|VIT|VIT|2
+44|32.768KHz|Dán|Y1|XT2-32.768KHz-2_V|Thach anh 8MHz 49S SMD|1
+45|8MHz|Dán|Y2|thach anh 49s smd|Thach anh 8MHz 49S SMD|1

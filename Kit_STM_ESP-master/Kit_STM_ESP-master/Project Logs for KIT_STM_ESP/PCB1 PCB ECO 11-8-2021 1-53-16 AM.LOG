@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P1 Old Footprint=Header Duc Thang 2p 2 New Footprint=Header Duc Thang 2P 2.54
+Change Component Footprint: Designator=P3 Old Footprint=Header Duc Thang 2p 2 New Footprint=Header Duc Thang 2P 2.54
+Change Component Designator: OldDesignator=PA7 NewDesignator=JP3
+Added Room: Name=Sheet1

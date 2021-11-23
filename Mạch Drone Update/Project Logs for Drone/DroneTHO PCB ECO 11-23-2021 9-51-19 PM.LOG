@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=PC6 Pin=*-63
+Removed Pin From Net: NetName=PC7 Pin=*-64
+Removed Pin From Net: NetName=PC8 Pin=*-65
+Removed Pin From Net: NetName=PC9 Pin=*-66
+Removed Pin From Net: NetName=PC10 Pin=*-78
+Removed Pin From Net: NetName=PB9 Pin=*-96
+Removed Pin From Net: NetName=PE12 Pin=JP2-1
+Change Component Description : Designator=BZ1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=J1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=J2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=P1 Old Description=C?m New Description=C?m
+Added Pin To Net: NetName=PE12 Pin=JP2-3
+Added Pin To Net: NetName=PB10 Pin=JP2-7
+Added Pin To Net: NetName=PB11 Pin=JP2-8
+Added Pin To Net: NetName=PE8 Pin=*-39
+Added Net: Name=PE8
+Added Pin To Net: NetName=PE9 Pin=*-40
+Added Net: Name=PE9
+Added Pin To Net: NetName=PE10 Pin=*-41
+Added Pin To Net: NetName=PE10 Pin=JP2-1
+Added Net: Name=PE10
+Added Pin To Net: NetName=PE11 Pin=*-42
+Added Pin To Net: NetName=PE11 Pin=JP2-2
+Added Net: Name=PE11
+Added Pin To Net: NetName=PE13 Pin=*-44
+Added Pin To Net: NetName=PE13 Pin=JP2-4
+Added Net: Name=PE13
+Added Pin To Net: NetName=PE14 Pin=*-45
+Added Pin To Net: NetName=PE14 Pin=JP2-5
+Added Net: Name=PE14
+Added Pin To Net: NetName=PE15 Pin=*-46
+Added Pin To Net: NetName=PE15 Pin=JP2-6
+Added Net: Name=PE15
+Added Room: Name=Drone

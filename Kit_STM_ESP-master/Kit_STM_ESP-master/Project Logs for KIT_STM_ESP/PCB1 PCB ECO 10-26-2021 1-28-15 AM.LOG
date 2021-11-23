@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=Sheet1 Member=VIT1
+Removed Member From Class: ClassName=Sheet1 Member=VIT2
+Removed Member From Class: ClassName=Sheet1 Member=VIT3
+Removed Member From Class: ClassName=Sheet1 Member=VIT4
+Change Component Designator: OldDesignator= NewDesignator=LED7
+Change Component Designator: OldDesignator=BTN1 NewDesignator=P2
+Change Component Designator: OldDesignator=BTN2 NewDesignator=P8
+Change Component Designator: OldDesignator=CONFIG NewDesignator=P7
+Change Component Designator: OldDesignator=CT NewDesignator=SW1
+Change Component Designator: OldDesignator=ESP8266 NewDesignator=U1
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED5
+Change Component Designator: OldDesignator=LED - ESP NewDesignator=LED6
+Change Component Designator: OldDesignator=Nap Code ESP NewDesignator=J3
+Change Component Designator: OldDesignator=Nap Code STM NewDesignator=JP1
+Change Component Designator: OldDesignator=RST - ESP NewDesignator=P6
+Change Component Designator: OldDesignator=RST - STM NewDesignator=P4
+Change Component Designator: OldDesignator=STM32F103 NewDesignator=IC1
+Added Member To Class: ClassName=Sheet1 Member=Component LED5 LED BLUE
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ESP_12_E

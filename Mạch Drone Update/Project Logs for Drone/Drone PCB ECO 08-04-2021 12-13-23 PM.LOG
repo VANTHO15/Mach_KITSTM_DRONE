@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VDD Pin=P5-1
+Removed Pin From Net: NetName=PB9 Pin=P5-3
+Removed Pin From Net: NetName=PE6 Pin=P5-4
+Removed Pin From Net: NetName=GND Pin=P5-6
+Removed Member From Class: ClassName=Drone Member=P5
+Added Room: Name=Drone

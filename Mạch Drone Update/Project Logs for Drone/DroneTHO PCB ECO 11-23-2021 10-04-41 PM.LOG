@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PC9 Pin=JP3-1
+Removed Pin From Net: NetName=PC8 Pin=JP3-2
+Removed Pin From Net: NetName=PC7 Pin=JP3-3
+Removed Pin From Net: NetName=PC6 Pin=JP3-4
+Removed Pin From Net: NetName=PB11 Pin=JP3-5
+Added Pin To Net: NetName=PC6 Pin=*-63
+Added Pin To Net: NetName=PC7 Pin=*-64
+Added Pin To Net: NetName=PC8 Pin=*-65
+Added Pin To Net: NetName=PC9 Pin=*-66
+Added Pin To Net: NetName=PC10 Pin=*-78
+Added Pin To Net: NetName=PC10 Pin=JP3-1
+Added Pin To Net: NetName=PC9 Pin=JP3-2
+Added Pin To Net: NetName=PC8 Pin=JP3-3
+Added Pin To Net: NetName=PC7 Pin=JP3-4
+Added Pin To Net: NetName=PC6 Pin=JP3-5

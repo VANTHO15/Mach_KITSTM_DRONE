@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=U?-1
+Removed Pin From Net: NetName=3V3 Pin=U?-2
+Removed Pin From Net: NetName=5V Pin=U?-3
+Removed Member From Class: ClassName=Sheet1 Member=U?
+Added Component: Designator=U10(SOT223)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = "SOT223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000596"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "AMS1117-3.3V SOT223"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U10-1
+Added Pin To Net: NetName=3V3 Pin=U10-2
+Added Pin To Net: NetName=3V3 Pin=U10-2
+Added Pin To Net: NetName=5V Pin=U10-3
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 Nguon 3V3
+Added Member To Class: ClassName=Sheet1 Member=Component U10 AMS1117 3.3V
+Added Room: Name=Sheet1

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=HD8-1
+Removed Pin From Net: NetName=GND Pin=HD8-2
+Removed Pin From Net: NetName=5V Pin=HD8-3
+Removed Pin From Net: NetName=5V Pin=HD8-4
+Removed Pin From Net: NetName=5V Pin=HD8-5
+Removed Pin From Net: NetName=5V Pin=HD8-6
+Removed Member From Class: ClassName=Sheet1 Member=HD8
+Added Component: Designator=HD10(Header_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=HD10-1
+Added Pin To Net: NetName=5V Pin=HD10-2
+Added Member To Class: ClassName=Sheet1 Member=Component HD10 Header 2
+Added Room: Name=Sheet1

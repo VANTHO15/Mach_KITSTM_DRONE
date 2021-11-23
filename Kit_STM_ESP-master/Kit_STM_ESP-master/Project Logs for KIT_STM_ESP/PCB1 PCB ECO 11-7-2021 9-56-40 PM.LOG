@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=PA7 Pin=IC1-17
+Removed Pin From Net: NetName=BP0 Pin=IC1-18
+Removed Pin From Net: NetName=PA4 Pin=JP3-4
+Removed Pin From Net: NetName=BP1 Pin=R5-2
+Added Pin To Net: NetName=PA7 Pin=IC1-3
+Added Pin To Net: NetName=BP0 Pin=IC1-15
+Added Pin To Net: NetName=BP1 Pin=JP3-4
+Added Pin To Net: NetName=GND Pin=JP4-1
+Added Pin To Net: NetName=PA4 Pin=R5-2
+Change Net Name : Old Net Name=BP0 New Net Name=PA5
+Change Net Name : Old Net Name=PA7 New Net Name=PC14
+Added Pin To Net: NetName=BP0 Pin=IC1-18
+Added Pin To Net: NetName=BP0 Pin=JP3-3
+Added Net: Name=BP0
+Added Pin To Net: NetName=PA7 Pin=IC1-17
+Added Pin To Net: NetName=PA7 Pin=JP3-1
+Added Net: Name=PA7
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 LED RED

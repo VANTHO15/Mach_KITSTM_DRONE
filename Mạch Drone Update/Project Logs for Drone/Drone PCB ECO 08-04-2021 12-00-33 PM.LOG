@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=PE6 Pin=*-5
+Removed Pin From Net: NetName=PD8 Pin=*-55
+Removed Pin From Net: NetName=PB9 Pin=*-96
+Removed Pin From Net: NetName=PE5 Pin=P5-5
+Removed Pin From Net: NetName=PD4 Pin=P5-7
+Removed Pin From Net: NetName=PD3 Pin=P5-8
+Added Pin To Net: NetName=I2C1_DRDY Pin=*-81
+Added Pin To Net: NetName=I2C1_INTA Pin=*-82
+Added Pin To Net: NetName=I2C1_SCL Pin=*-92
+Added Pin To Net: NetName=I2C1_SDA Pin=*-93
+Added Pin To Net: NetName=I2C1_SFYNC Pin=*-95
+Added Pin To Net: NetName=PD3 Pin=P3-3
+Added Pin To Net: NetName=PD4 Pin=P3-4
+Added Pin To Net: NetName=PE5 Pin=P3-5

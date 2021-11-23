@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PC10 Pin=JP3-1
+Added Pin To Net: NetName=GND Pin=JP3-1

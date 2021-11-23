@@ -1,0 +1,11 @@
+Added Component: Designator=HD8(Header_6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Creat by"; Value = "VanDungEvn@Gmail.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=HD8-1
+Added Pin To Net: NetName=GND Pin=HD8-2
+Added Pin To Net: NetName=5V Pin=HD8-3
+Added Pin To Net: NetName=5V Pin=HD8-4
+Added Pin To Net: NetName=5V Pin=HD8-5
+Added Pin To Net: NetName=5V Pin=HD8-6
+Added Member To Class: ClassName=Sheet1 Member=Component HD8 HD6
+Added Member To Class: ClassName=Sheet1 Member=Component JP3 Show 1

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=3V3 Pin=C2-1
+Removed Pin From Net: NetName=VIN Pin=C7-1
+Change Component Footprint: Designator=C2 Old Footprint=tu hoa 4mm New Footprint=tu nhom 10 (g)
+Change Component Footprint: Designator=C7 Old Footprint=tu hoa 5mm New Footprint=tu nhom 4 (b)
+Change Component Comment : Designator=C2 Old Comment=10uF-16V New Comment=100uF
+Change Component Comment : Designator=C7 Old Comment=100uF-16V New Comment=10uF
+Change component parameters: Designator = "C2"; Footprint = "tu nhom 10 (g)"; UniqueID = "\FWGOAJCU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Nhôm 100uF 35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "tu nhom 4 (b)"; UniqueID = "\FIFIQSOK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001458"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Nhôm 10uF 16V 4x5MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C7-1
+Added Room: Name=Drone

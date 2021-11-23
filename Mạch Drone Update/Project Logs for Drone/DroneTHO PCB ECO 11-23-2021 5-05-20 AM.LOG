@@ -1,0 +1,125 @@
+Removed Pin From Net: NetName=3V3 Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Member From Class: ClassName=Drone Member=C23
+Change Component Designator: OldDesignator=CN? NewDesignator=CN1
+Change Component Designator: OldDesignator=CN? NewDesignator=CN2
+Added Component: Designator=*(STM32F407Vet6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(tu 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 220nF 50V 10%"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(led 1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED 1206 Màu Ð? (Red)"; VariantName = "[No Variations]"
+Added Component: Designator=MD1(NRF24L01)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT2(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT4(VIT)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PE2 Pin=*-1
+Added Pin To Net: NetName=PE3 Pin=*-2
+Added Pin To Net: NetName=PE4 Pin=*-3
+Added Pin To Net: NetName=3V3 Pin=*-6
+Added Pin To Net: NetName=PC14 Pin=*-8
+Added Pin To Net: NetName=PC15 Pin=*-9
+Added Pin To Net: NetName=GND Pin=*-10
+Added Pin To Net: NetName=3V3 Pin=*-11
+Added Pin To Net: NetName=PH0 Pin=*-12
+Added Pin To Net: NetName=PH1 Pin=*-13
+Added Pin To Net: NetName=RST Pin=*-14
+Added Pin To Net: NetName=ADC_SOLAR Pin=*-15
+Added Pin To Net: NetName=PC1 Pin=*-16
+Added Pin To Net: NetName=PC2 Pin=*-17
+Added Pin To Net: NetName=PC3 Pin=*-18
+Added Pin To Net: NetName=3V3 Pin=*-19
+Added Pin To Net: NetName=GND Pin=*-20
+Added Pin To Net: NetName=Net*_21 Pin=*-21
+Added Pin To Net: NetName=3V3 Pin=*-22
+Added Pin To Net: NetName=UART4_TX Pin=*-23
+Added Pin To Net: NetName=UART4_RX Pin=*-24
+Added Pin To Net: NetName=BUZZ Pin=*-25
+Added Pin To Net: NetName=SERVO Pin=*-26
+Added Pin To Net: NetName=GND Pin=*-27
+Added Pin To Net: NetName=3V3 Pin=*-28
+Added Pin To Net: NetName=SPI1_CSN Pin=*-29
+Added Pin To Net: NetName=SPI1_SCK Pin=*-30
+Added Pin To Net: NetName=SPI1_MISO Pin=*-31
+Added Pin To Net: NetName=SPI1_MOSI Pin=*-32
+Added Pin To Net: NetName=NRF_IRQ Pin=*-33
+Added Pin To Net: NetName=NRF_CE Pin=*-34
+Added Pin To Net: NetName=Net*_37 Pin=*-37
+Added Pin To Net: NetName=PE7 Pin=*-38
+Added Pin To Net: NetName=PE8 Pin=*-39
+Added Pin To Net: NetName=PB9 Pin=*-40
+Added Pin To Net: NetName=PE10 Pin=*-41
+Added Pin To Net: NetName=PE11 Pin=*-42
+Added Pin To Net: NetName=PE12 Pin=*-43
+Added Pin To Net: NetName=PE13 Pin=*-44
+Added Pin To Net: NetName=PE14 Pin=*-45
+Added Pin To Net: NetName=PE15 Pin=*-46
+Added Pin To Net: NetName=Net*_49 Pin=*-49
+Added Pin To Net: NetName=3V3 Pin=*-50
+Added Pin To Net: NetName=PB12 Pin=*-51
+Added Pin To Net: NetName=PB13 Pin=*-52
+Added Pin To Net: NetName=PB14 Pin=*-53
+Added Pin To Net: NetName=UART3_TX Pin=*-55
+Added Pin To Net: NetName=UART3_RX Pin=*-56
+Added Pin To Net: NetName=PD10 Pin=*-57
+Added Pin To Net: NetName=PD11 Pin=*-58
+Added Pin To Net: NetName=ESC1 Pin=*-59
+Added Pin To Net: NetName=ESC2 Pin=*-60
+Added Pin To Net: NetName=ESC3 Pin=*-61
+Added Pin To Net: NetName=ESC4 Pin=*-62
+Added Pin To Net: NetName=UART1_TX Pin=*-68
+Added Pin To Net: NetName=UART1_RX Pin=*-69
+Added Pin To Net: NetName=SWDIO Pin=*-72
+Added Pin To Net: NetName=Net*_73 Pin=*-73
+Added Pin To Net: NetName=GND Pin=*-74
+Added Pin To Net: NetName=3V3 Pin=*-75
+Added Pin To Net: NetName=SWCLK Pin=*-76
+Added Pin To Net: NetName=UART5_TX Pin=*-80
+Added Pin To Net: NetName=I2C1_DRDY Pin=*-81
+Added Pin To Net: NetName=I2C1_INTA Pin=*-82
+Added Pin To Net: NetName=UART5_RX Pin=*-83
+Added Pin To Net: NetName=PD3 Pin=*-84
+Added Pin To Net: NetName=PD4 Pin=*-85
+Added Pin To Net: NetName=PB5 Pin=*-91
+Added Pin To Net: NetName=I2C1_SCL Pin=*-92
+Added Pin To Net: NetName=I2C1_SDA Pin=*-93
+Added Pin To Net: NetName=Net*_94 Pin=*-94
+Added Pin To Net: NetName=I2C1_SFYNC Pin=*-95
+Added Pin To Net: NetName=PE0 Pin=*-97
+Added Pin To Net: NetName=PE1 Pin=*-98
+Added Pin To Net: NetName=GND Pin=*-99
+Added Pin To Net: NetName=3V3 Pin=*-100
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=3V3 Pin=C8-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=MD1-1
+Added Pin To Net: NetName=3V3 Pin=MD1-2
+Added Pin To Net: NetName=NRF_CE Pin=MD1-3
+Added Pin To Net: NetName=SPI1_CSN Pin=MD1-4
+Added Pin To Net: NetName=SPI1_SCK Pin=MD1-5
+Added Pin To Net: NetName=SPI1_MOSI Pin=MD1-6
+Added Pin To Net: NetName=SPI1_MISO Pin=MD1-7
+Added Pin To Net: NetName=NRF_IRQ Pin=MD1-8
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Added Member To Class: ClassName=Drone Member=Component * STM32F407
+Added Member To Class: ClassName=Drone Member=Component C8 100nF (0805)
+Added Member To Class: ClassName=Drone Member=Component CN2 CON.HDR2x8
+Added Member To Class: ClassName=Drone Member=Component LED1 Led Do 1206
+Added Member To Class: ClassName=Drone Member=Component MD1 NRF24L01 Module
+Added Member To Class: ClassName=Drone Member=Component VIT2 1
+Added Member To Class: ClassName=Drone Member=Component VIT4 1

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=I2C1_SDA Pin=Cam bien-2
+Removed Pin From Net: NetName=I2C1_SCL Pin=Cam bien-3
+Added Pin To Net: NetName=I2C1_SCL Pin=Cam bien-2
+Added Pin To Net: NetName=I2C1_SDA Pin=Cam bien-3

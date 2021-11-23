@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=PA7 NewDesignator=JP3
+Added Component: Designator=VIT1(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT2(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT3(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT4(VIT)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet1 Member=Component VIT1 1
+Added Member To Class: ClassName=Sheet1 Member=Component VIT2 1
+Added Member To Class: ClassName=Sheet1 Member=Component VIT3 1
+Added Member To Class: ClassName=Sheet1 Member=Component VIT4 1
